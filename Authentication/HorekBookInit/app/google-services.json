@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "909953613116",
+    "firebase_url": "https://horekbookinit.firebaseio.com",
+    "project_id": "horekbookinit",
+    "storage_bucket": "horekbookinit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909953613116:android:11e4fa44af1b7893",
+        "android_client_info": {
+          "package_name": "com.example.htlee.horekbookinit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909953613116-6941uceb59cu6pu4lt1ur910vkb96fm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.htlee.horekbookinit",
+            "certificate_hash": "185314332a7c2dda74964265c643179b62607bb1"
+          }
+        },
+        {
+          "client_id": "909953613116-j1nh45cfno18403k12d9e1ds4a714q81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Bp-YeedMWxsxJO5gjw2Xf6kAgAlTJ1o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909953613116-j1nh45cfno18403k12d9e1ds4a714q81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
